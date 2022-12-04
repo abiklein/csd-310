@@ -1,9 +1,9 @@
 /*
     Title: outlandAdventure.sql
-    Team: Silver
+    Team: Silver 
     Author(s): Shayla Bradley, Patrick Ellis, Yawa Hallo, Abigail Klein
     Professor: Professor Sampson
-    Date: December 2022
+    Date: December 4, 2022
     Description: Outland Adventures database initialization script.
 */
 
